@@ -1,5 +1,5 @@
 <?php
-$baseUrl = 'https://187.228.205.92.host.secureserver.net/';
+$baseUrl = 'https://187.228.205.92.host.secureserver.net/?';
 
 function generateSegment($length) {
   $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
